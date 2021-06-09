@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">JavaneseFood</string>
+    <string name="food_name">Food Name</string>
+    <string name="detail_makanan">Detail Makanan</string>
+    <string name="bc_sl">Baca Selengkapnya ...</string>
+    <string name="profile">profile</string>
+    <string name="about_me">About Me</string>
+    <string name="alamat1">Kaligetas, RT.03 / RW.04, \nKelurahan Jatibarang, \nKecamatan Mijen, Kota \nSemarang</string>
+    <string name="alamat">Alamat          :</string>
+    <string name="noHp">+688228864327</string>
+    <string name="noHpid">Nomor Handphone :</string>
+    <string name="email1">a3162842@bangkit.academy</string>
+    <string name="email">Email           :</string>
+    <string name="nama1">Reza Haris Alfikri</string>
+    <string name="nama">Nama            :</string>
+    <string name="splash">splash</string>
+</resources>
